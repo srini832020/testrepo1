@@ -1,0 +1,6 @@
+1.root->adduser
+2.exit
+3.keygen(public and private)
+4.passwrd based
+5.ssh copy id from 1st mc to 2nd mc
+6.connect directly from 1 to 2
